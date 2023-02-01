@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Coco'S%github&animation=blink&fontsize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Coco's%20github&animation=blink&fontsize=40)
 <!--
 **boram-coco/boram-coco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
